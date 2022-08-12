@@ -1,0 +1,73 @@
+html,body{
+    width: 100%;
+    height: 100%;
+}
+
+form{
+    padding-right:30%;
+    padding-left:10%;
+}
+
+.loginForm{
+    padding-top:14%;
+    padding-left: 30%;
+    padding-right: 30%;
+
+}
+
+#studentRegistrationForm{
+    padding-top:0;  
+}
+
+.userRegistrationForm{
+    padding-top:8%;
+    /* display:flex; */
+}
+
+#userRegistrationForm{
+    padding-left:30%;
+    padding-right:20%;
+}
+
+#studentRegistrationForm{
+    padding-left:30%;
+    padding-right:20%;
+}
+
+#userDetailsTable{
+    padding-top: 2%;
+    padding-left:30%;
+    padding-right:20%;
+    padding-bottom:5%;
+}
+
+#studentDetailsTable{
+    padding-top: 2%;
+    padding-left:30%;
+    padding-right:20%;
+    padding-bottom:5%;
+}
+
+h1{
+    padding-top:3%;
+    padding-left: 30%;
+    padding-right: 20%;
+}
+
+.form-control{
+    width:60%;
+}
+
+
+#studentRegistrationForm.form-control{
+    width:80%; 
+}
+
+.form-select{
+    width:40%;
+}
+
+#studentMarkListTable{
+    padding-top:4%;
+    padding-left:8%;
+}
